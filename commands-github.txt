@@ -1,0 +1,15 @@
+git pull origin (updates locally sync with remote)
+
+git checkout -b esm-branch (creates new branch)
+git checkout esm-branch (goes lel branch esm-branch)
+
+git add . (point means all changes go to staged)
+git add file-name (only file-name goes from changes to staged)
+
+git commit -m "message mte3ek" (goes from staged to commit)
+
+git push origin (if you're in main)
+git push esm-branch (if you're in a branch)
+
+Click on link to create pull request
+You go on github you click on pull request and then merge
